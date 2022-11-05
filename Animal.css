@@ -1,0 +1,25 @@
+body{
+    background-color:skyblue;
+    padding:0px;
+    margin:0px;   
+}
+.container{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    margin-top: 10%;
+}
+.container1{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+.item{
+    width:10%;
+    font-size:80px;
+    text-align: center;
+    font-weight: bold;
+    background-color:aqua;
+    line-height: 100px;
+}
